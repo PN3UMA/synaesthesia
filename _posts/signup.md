@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  Men Perfecting Men Sign-up Form
-date:   2029-08-31 0
-categories: COGIC Ministry AR1J
+date:   2026-08-31 0
+categories:  Ministry COGIC AR1J
 ---
 
 **Sign-up Form**
